@@ -1,9 +1,6 @@
 //objeto con información relevante para una página web. Este objeto podría incluir propiedades como: 
 //title, subtitle y description. Puedes añadir las que quieras y los valores puedes inventártelos.
 
-//XXXXconst os = require('node:os');
-
-
 const pgWeb = {
     title: "MiWeb",
     subtitle: "Subtitulo",
